@@ -3,11 +3,18 @@
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la startup
 
-WebWarriors es una startup...
+Nuestro startup, denominada “RebooTech”, surge con el objetivo de mejorar la gestión logística en la distribución
+de frutas, frente a la falta de digitalización y coordinación entre productores, distribuidores y clientes comerciales, lo
+que genera errores en pedidos y problemas en la calidad de los productos.
 
-Nuestra misión es...
+La misión de RebooTech es optimizar esta cadena de suministro mediante una plataforma web que centralice la
+gestión de pedidos, permita su correcta asignación y facilite el control de calidad en cada etapa del proceso. De esta
+forma, se busca mejorar la trazabilidad, reducir errores operativos y optimizar los tiempos de entrega.
 
-Nuestra visión es...
+La visión de RebooTech a futuro, proyecta incorporar tecnologías IoT, como sensores de temperatura y humedad en el
+transporte, con el fin de garantizar condiciones adecuadas durante el traslado y consolidarse como una solución
+innovadora en la logística del sector alimentario.
+
 ### 1.1.2. Perfiles de los integrantes del equipo:
 | Foto                                                                | Apellidos y nombres                 | Código     | Descripción                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 |:--------------------------------------------------------------------|:------------------------------------|:-----------|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
