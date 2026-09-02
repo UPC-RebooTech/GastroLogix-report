@@ -25,12 +25,25 @@ En el mercado peruano existen diversas soluciones tecnológicas orientadas a la 
     </tr>
     <tr>
     </tr>
+<!-- FILA DE CABECERA CON LOGOS -->
     <tr>
-      <th colspan="2"><b></b></th>
-      <th><b>FruitLogix</b><br><i>(Logo)</i></th>
-      <th><b>AgroData Perú</b><br><i>(Logo)</i></th>
-      <th><b>SAP Agri</b><br><i>(Logo)</i></th>
-      <th><b>TrazAgro</b><br><i>(Logo)</i></th>
+      <th colspan="2"><b>Criterio de Análisis</b></th>
+      <th>
+        <img src="../assets/logos/FRUITLOGIX_Logo.png" alt="FruitLogix" width="80"><br>
+        <b>FruitLogix</b>
+      </th>
+      <th>
+        <img src="../assets/logos/AGRODATA_Logo.png" alt="AgroData Perú" width="80"><br>
+        <b>AgroData Perú</b>
+      </th>
+      <th>
+        <img src="../assets/logos/SAP_Logo.png" alt="SAP Agri" width="80"><br>
+        <b>SAP Agri</b>
+      </th>
+      <th>
+        <img src="../assets/logos/TRAZAGRO_Logo.png" alt="TrazAgro" width="80"><br>
+        <b>TrazAgro</b>
+      </th>
     </tr>
   </thead>
   <tbody>
