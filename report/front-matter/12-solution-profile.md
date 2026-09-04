@@ -28,3 +28,52 @@ Nuestro producto/servicio abordará esta brecha centralizando la gestión de ped
 Nuestro enfoque inicial será los distribuidores medianos de Lima Metropolitana que abastecen a supermercados, mercados mayoristas y restaurantes.
 
 Sabremos que tenemos éxito cuando observemos una reducción del 30% en los errores operativos y del 25% en los pedidos rechazados por problemas de calidad, durante los primeros seis meses de uso de la plataforma.
+
+### 1.2.2.2. Lean UX Assumptions
+
+#### Business Assumptions
+
+- Creemos que existe un mercado desatendido de distribuidores medianos en Lima Metropolitana que pierden rentabilidad debido a procesos manuales e informales (cuadernos, Excel y WhatsApp) y que están dispuestos a adoptar una plataforma de gestión operativa.
+
+- Creemos que la coordinación simultánea entre los encargados dentro de un único entorno digital representa una ventaja competitiva sostenible frente a ERPs costosos (SAP Agri) o directorios estáticos de precios (AgroData Perú).
+
+- Creemos que aunque la resistencia al cambio cultural es la mayor barrera de entrada en el sector agrícola, una baja carga cognitiva en la interfaz facilitará que usuarios con alfabetización digital básica migren sus operaciones diarias a la plataforma.
+
+#### Business Outcome Assumptions
+
+- Creemos que lograremos reducir en un 30% los errores de registro, despacho y duplicidad durante los primeros seis meses. Sabremos que esto ocurrirá cuando al menos el 90% de los pedidos se registren directamente en la plataforma.
+
+- Creemos que lograremos reducir en un 25% los pedidos rechazados por problemas de calidad. Sabremos que estaremos en lo correcto cuando los productores reportan el estado de calidad de cada lote antes del despacho en al menos el 80% de los envíos.
+
+- Creemos que lograremos reducir en un 35% el tiempo promedio transcurrido entre la creación de una orden comercial y su confirmación/asignación de cosecha. Sabremos que se habrá logrado el objetivo cuando más del 75% de las asignaciones de pedidos se gestionan mediante las alertas automáticas de disponibilidad de la plataforma.
+
+- Creemos que lograremos reducir en un 50% las consultas manuales de los clientes comerciales. Sabremos que esto será cierto cuando los clientes puedan consultar el estado y la trazabilidad de sus pedidos directamente desde la plataforma, reduciendo en un 50% las llamadas y mensajes de seguimiento.
+
+#### User Assumptions
+
+- Creemos que nuestro primer segmento son los productores de los insumos, es decir, agricultores y recolectores en zonas rurales y periurbanas que operan con tecnología móvil básica, clasifican su mercancía bajo criterios subjetivos y sufren pérdidas económicas al recibir notificaciones tardías de rechazo cuando su lote ya viajó a Lima.
+
+- Creemos que nuestro segundo segmento son los
+  distribuidores de insumos, correspondientes a los intermediarios logísticos independientes y jefes de almacén en Lima Metropolitana que centralizan pedidos con menos de 48 horas de anticipación, dependiendo de herramientas desconectadas (Excel, notas de papel y llamadas) para organizar rutas y stock sin visibilidad en tiempo real.
+
+- Creemos que nuestro tercer segmento son los encargados de compras y cocina de negocios minoristas (supermercados, cadenas de restaurantes y juguerías), quienes gestionan múltiples proveedores al mismo tiempo y sufren incertidumbre sobre la frescura y la hora exacta de entrega de los insumos perecibles.
+
+#### User Outcomes and Benefits
+
+- Creemos que los distribuidores de frutas buscan visibilidad centralizada del stock disponible de productores y del progreso de la flota en ruta.
+
+- Creemos que los productores agrícolas esperan recibir requerimientos con anticipación estructurada y formalizar la calidad de su producción antes del despacho.
+
+- Creemos que los clientes comerciales quieren acceder al estado del pedido y a la estimación del tiempo de llegada (ETA) en tiempo real.
+
+#### Feature Assumptions
+
+- Creemos que un módulo centralizado de gestión de pedidos con reglas de asignación automática según stock y capacidad reducirá los errores de despacho y duplicidad en al menos un 30%.
+
+- Creemos que la estandarización del control de calidad por Lotes (fichas técnicas digitales y respaldo fotográfico obligatorio previo al despacho) disminuirá los rechazos en destino en un 25%.
+
+- Creemos que el monitoreo continuo de la cadena de frío mediante sensores IoT (temperatura y humedad) integrados al panel de rastreo logístico evitará pérdidas de producto durante el transporte en al menos un 20%.
+
+- Creemos que un sistema de notificaciones proactivas y mensajería unificada vinculada a órdenes reducirá en más de un 50% la necesidad de realizar llamadas y mensajes dispersos de seguimiento entre los tres actores.
+
+- Creemos que un dashboard de KPIs operativos y financieros permitirá a los administradores identificar cuellos de botella en la flota y conciliar cuentas por cobrar/pagar en tiempo real.
