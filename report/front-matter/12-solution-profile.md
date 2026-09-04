@@ -77,3 +77,55 @@ Sabremos que tenemos éxito cuando observemos una reducción del 30% en los erro
 - Creemos que un sistema de notificaciones proactivas y mensajería unificada vinculada a órdenes reducirá en más de un 50% la necesidad de realizar llamadas y mensajes dispersos de seguimiento entre los tres actores.
 
 - Creemos que un dashboard de KPIs operativos y financieros permitirá a los administradores identificar cuellos de botella en la flota y conciliar cuentas por cobrar/pagar en tiempo real.
+
+### Lean UX Hypotheses Statements
+
+- Hipótesis 1 (Módulo centralizado de gestión de pedidos)
+
+Creemos que lograremos reducir los errores de despacho y duplicidad en al menos un 30%
+
+Si los distribuidores medianos y sus jefes de almacén
+
+Obtienen un proceso de asignación automática que previene sobreventas y errores manuales de registro
+
+Con un módulo centralizado de gestión de pedidos con reglas de asignación según stock y capacidad.
+
+- Hipótesis 2 (Estandarización del control de calidad por lotes)
+
+Creemos que lograremos disminuir los pedidos rechazados en destino en un 25%
+
+Si los productores y distribuidores de frutas
+
+Obtienen un mecanismo estandarizado para validar y respaldar la condición técnica de la fruta antes de que salga del origen
+
+Con un sistema de control de calidad por lotes con fichas técnicas digitales y registro fotográfico obligatorio previo al despacho.
+
+- Hipótesis 3 (Monitoreo de cadena de frío con sensores IoT)
+
+Creemos que lograremos evitar pérdidas de producto por deterioro durante el transporte en al menos un 20%
+
+Si los distribuidores e intermediarios logísticos
+
+Obtienen alertas inmediatas ante variaciones perjudiciales de temperatura y humedad en la ruta
+
+Con un sistema de monitoreo continuo de cadena de frío mediante sensores IoT integrados al panel de rastreo.
+
+- Hipótesis 4 (Notificaciones proactivas y mensajería unificada)
+
+Creemos que lograremos reducir en más de un 50% la necesidad de llamadas y chats dispersos de seguimiento
+
+Si los productores, distribuidores y clientes comerciales
+
+Obtienen un canal de comunicación centralizado e integrado al historial de cada orden
+
+Con un sistema de notificaciones proactivas y mensajería unificada vinculada directamente a las órdenes de compra.
+
+- Hipótesis 5 (Dashboard de KPIs operativos y financieros)
+
+Creemos que lograremos mejorar la toma de decisiones operativas y financieras del negocio.
+
+Si los administradores y distribuidores 
+
+Obtienen claridad visual sobre los cuellos de botella logísticos y la conciliación de cuentas por cobrar y pagar
+
+Con un dashboard interactivo de KPIs operativos y financieros integrado a la plataforma actualizados en tiempo real.
