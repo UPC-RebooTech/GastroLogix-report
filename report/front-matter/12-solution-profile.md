@@ -15,3 +15,16 @@ A continuación, se desarrollarán las preguntas clave usando el modelo de las 5
 | Why?      | ¿Por qué ocurre?                    | Por la brecha de digitalización en el sector, la ausencia de una plataforma centralizada y la dependencia excesiva de canales informales (cuadernos, Excel y WhatsApp). |
 | How?      | ¿Cómo se manifiesta?                | En pedidos despachados incorrectamente, pérdida de la cadena de frío sin monitoreo térmico, comunicación desincronizada y devoluciones de lotes en recepción.                    |
 | How Much? | ¿Cuánto impacto tiene?              | Genera mermas y pérdidas de entre un 30% y 35% del volumen de productos frescos comercializados en el país debido a deficiencias en postcosecha, transporte sin monitoreo térmico y manipulación inadecuada, ocasionando sobrecostos logísticos, desperdicio de producto apto para la venta y frecuentes rechazos en los puntos de recepción (Agraria.pe, 2019).     |
+
+
+### 1.2.2.1 Lean Ux Problem Statements
+
+El estado actual de la logística agrícola y la cadena de suministro de frutas en el Perú se ha centrado principalmente en productores, distribuidores medianos y clientes comerciales (supermercados, mercados mayoristas y restaurantes) que coordinan sus operaciones mediante procesos manuales como hojas de cálculo, registros en papel y aplicaciones de mensajería, lo que genera desorganización en la gestión de pedidos, falta de trazabilidad durante la distribución y retrasos que afectan la calidad del servicio y la toma de decisiones.
+
+Lo que los productos/servicios existentes no logran resolver es la falta de coordinación y monitoreo en tiempo real entre productores, distribuidores y clientes comerciales, lo que impide anticipar y prevenir pérdidas de calidad en productos perecederos, y responder a imprevistos antes de que el producto llegue al cliente final.
+
+Nuestro producto/servicio abordará esta brecha centralizando la gestión de pedidos, el control de calidad y la trazabilidad en tiempo real de las entregas, integrando en una sola plataforma digital la comunicación entre productores, distribuidores y clientes comerciales.
+
+Nuestro enfoque inicial será los distribuidores medianos de Lima Metropolitana que abastecen a supermercados, mercados mayoristas y restaurantes.
+
+Sabremos que tenemos éxito cuando observemos una reducción del 30% en los errores operativos y del 25% en los pedidos rechazados por problemas de calidad, durante los primeros seis meses de uso de la plataforma.
